@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Police>
+	<UserList>
+		<Investigator>
+			<Age>56</Age>
+			<Name>Аркадий</Name>
+			<Exp>15</Exp>
+		</Investigator>
+		<Investigator>
+			<Age>58</Age>
+			<Name>Олег</Name>
+			<Exp>13</Exp>
+		</Investigator>
+	</UserList>
+	<UserList1>
+		<Judge>
+			<Age>57</Age>
+			<Name>Омар</Name>
+			<Exp>15</Exp>
+		</Judge>
+		<Judge>
+			<Age>60</Age>
+			<Name>Поп</Name>
+			<Exp>13</Exp>
+		</Judge>
+	</UserList1>
+</Police>
